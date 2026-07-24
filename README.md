@@ -82,9 +82,7 @@ git clone https://github.com/[your-username]/[repo-name].git
 
 Full discussion in the [technical report](./report/cephalometric_landmark_detection_report.md#5-limitations-and-future-work).
 
-## References
 
-Khalid, M.A., Zulfiqar, K., Bashir, U., Shaheen, A., Iqbal, R., Rizwan, Z., Rizwan, G., & Fraz, M.M. (2025). A Benchmark Dataset for Automatic Cephalometric Landmark Detection and CVM Stage Classification. *Scientific Data*, 12(1), 1336.
 
 Khalid, M.A., et al. (2022). CEPHA29: Automatic Cephalometric Landmark Detection Challenge 2023. *arXiv preprint arXiv:2212.04808*.
 
