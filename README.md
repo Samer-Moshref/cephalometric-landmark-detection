@@ -53,7 +53,7 @@ Full methodological detail, including the specific bugs found and fixed along th
 
 | Model | MRE (mm) | Architecture |
 |-------|----------|--------------|
-| This project (baseline) | 4.1–4.9 | Direct coordinate regression, CNN from scratch |
+| This project (baseline) | 2.1–2.3 | Direct coordinate regression, CNN from scratch |
 | Khalid et al., 2025 (dataset baseline) | 1.79 | Two-stage cascaded CNN, heatmap regression |
 | Khan et al., 2024 | 1.94 | Multi-scale CNN, heatmap regression |
 | Best published (CephRes-MHNet) | 1.23 | Multi-head residual CNN, heatmap regression |
