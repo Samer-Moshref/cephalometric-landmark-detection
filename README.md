@@ -84,7 +84,6 @@ Full discussion in the [technical report](./report/cephalometric_landmark_detect
 
 
 
-Khalid, M.A., et al. (2022). CEPHA29: Automatic Cephalometric Landmark Detection Challenge 2023. *arXiv preprint arXiv:2212.04808*.
 
 ## Author
 
